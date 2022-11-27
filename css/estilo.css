@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+
+}
+header{
+    text-align: center;
+    line-height: 100px;
+    font-size: 40px;
+    color: white;
+
+}
+header{
+    height: 110px;
+    width: 100%;
+    background-color: rgb(1, 6, 73);
+
+}
+nav{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(251, 255, 0);
+}
+
+p{
+    font-family: cursive;
+    font-size:23px;
+}
+aside{
+    width: 40%;
+    height: 475px;
+    background-color: rgb(252, 122, 0);
+    float: left;
+    overflow-y: scroll;
+    font-size:25px;
+}
+.lis{
+    margin: 5px 0px 2px 0px;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+ol{
+    margin: 10px 0px 0 0px;
+    line-height: 30px;
+}
+
+section{
+    width: 60%;
+    height: 475px;
+    background-color: rgb(0, 102, 255);
+    float:right;
+    overflow-y: scroll;
+}
+h3 {
+    text-align: center;
+}
+h2 {
+    color: red;
+}
+
+img {
+    width: 200px;
+    height: 400px;
+}
+footer{
+    width: 100%;
+    height: 20px;
+    background-color: black;
+    float: left;
+    text-align: center;
+    color: white;
